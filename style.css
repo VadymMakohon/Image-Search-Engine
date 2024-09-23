@@ -14,3 +14,12 @@ h1{
     margin: 100px auto 50px;
     font-weight: 600;
 }
+form{
+    width: 90%;
+    max-width: 600px;
+    margin: auto;
+    height: 80px;
+    background: #434989;
+    display: flex;
+    align-items: center;
+}
