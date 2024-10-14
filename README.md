@@ -6,11 +6,11 @@ This project demonstrates how to build a fully functional Image Search Engine us
 
 ## Github repo
 
-This is the [link](https://github.com/VadymMakohon/Music-Player) to the Github repo of the project
+This is the [link](https://github.com/VadymMakohon/Image-Search-Engine) to the Github repo of the project
 
 ## Sample Website
 
-A live demo is already available via this [link](https://vadymmakohon.github.io/Music-Player/)
+A live demo is already available via this [link](https://vadymmakohon.github.io/Image-Search-Engine/)
 
 ## 📜 License
 This repository is for educational purposes only and has an MIT License
